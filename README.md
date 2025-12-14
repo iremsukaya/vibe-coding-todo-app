@@ -5,8 +5,17 @@
 
 A functional Todo List web application built using **HTML, CSS, and JavaScript** with the help of **Replit Agent**, an AI-powered vibe coding tool.
 
-## Screenshot
-![Todo App Screenshot](./screenshot.png)
+## Screenshots
+
+### Main View
+![Main View](./screenshot-1.png)
+
+### Completed Tasks Filter
+![Completed Tasks](./screenshot-2.png)
+
+### Edit Task Example
+![Edit Task](./screenshot-3.png)
+
 
 ## Features
 - Add new tasks
