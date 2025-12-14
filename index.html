@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Todo List</h1>
+        </header>
+        
+        <div class="input-section">
+            <input type="text" id="taskInput" placeholder="What needs to be done?" autofocus>
+            <button id="addBtn">Add</button>
+        </div>
+        
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="active">Active</button>
+            <button class="filter-btn" data-filter="completed">Completed</button>
+        </div>
+        
+        <div class="stats">
+            <span id="totalCount">Total: 0</span>
+            <span id="activeCount">Active: 0</span>
+            <span id="completedCount">Completed: 0</span>
+        </div>
+        
+        <ul id="taskList" class="task-list"></ul>
+        
+        <div class="clear-section">
+            <button id="clearCompleted" class="clear-btn">Clear Completed</button>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
