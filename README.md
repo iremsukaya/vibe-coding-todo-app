@@ -8,7 +8,7 @@ A functional Todo List web application built using **HTML, CSS, and JavaScript**
 ## Screenshots
 
 ### Main View
-![Main View](./screenshot1.png)
+![Main View](./screenshot.png)
 
 ### Completed Tasks Filter
 ![Completed Tasks](./screenshot2.png)
