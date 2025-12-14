@@ -11,10 +11,10 @@ A functional Todo List web application built using **HTML, CSS, and JavaScript**
 ![Main View](./screenshot.png)
 
 ### Completed Tasks Filter
-![Completed Tasks](./screenshot2.png)
+![Completed Tasks](./screenshot1.png)
 
 ### Edit Task Example
-![Edit Task](./screenshot3.png)
+![Edit Task](./screenshot2.png)
 
 
 ## Features
